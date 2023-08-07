@@ -1,0 +1,12 @@
+C:\Users\samsung\source\repos\TravelBooking\TravelBooking\bin\Debug\net6.0\TravelBooking.deps.json
+C:\Users\samsung\source\repos\TravelBooking\TravelBooking\bin\Debug\net6.0\TravelBooking.dll
+C:\Users\samsung\source\repos\TravelBooking\TravelBooking\bin\Debug\net6.0\TravelBooking.pdb
+C:\Users\samsung\source\repos\TravelBooking\TravelBooking\obj\Debug\net6.0\TravelBooking.csproj.AssemblyReference.cache
+C:\Users\samsung\source\repos\TravelBooking\TravelBooking\obj\Debug\net6.0\TravelBooking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samsung\source\repos\TravelBooking\TravelBooking\obj\Debug\net6.0\TravelBooking.AssemblyInfoInputs.cache
+C:\Users\samsung\source\repos\TravelBooking\TravelBooking\obj\Debug\net6.0\TravelBooking.AssemblyInfo.cs
+C:\Users\samsung\source\repos\TravelBooking\TravelBooking\obj\Debug\net6.0\TravelBooking.csproj.CoreCompileInputs.cache
+C:\Users\samsung\source\repos\TravelBooking\TravelBooking\obj\Debug\net6.0\TravelBooking.dll
+C:\Users\samsung\source\repos\TravelBooking\TravelBooking\obj\Debug\net6.0\refint\TravelBooking.dll
+C:\Users\samsung\source\repos\TravelBooking\TravelBooking\obj\Debug\net6.0\TravelBooking.pdb
+C:\Users\samsung\source\repos\TravelBooking\TravelBooking\obj\Debug\net6.0\ref\TravelBooking.dll

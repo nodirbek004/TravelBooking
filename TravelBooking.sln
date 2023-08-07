@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaTaAccess", "DaTaAccess\DaTaAccess.csproj", "{087C0C1E-E7F3-4762-868E-5CB77A7EEE82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{50720A7A-496E-4D25-968D-0033A5A98B71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{FABB953C-142D-406B-AE78-6C7A868649AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{087C0C1E-E7F3-4762-868E-5CB77A7EEE82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{087C0C1E-E7F3-4762-868E-5CB77A7EEE82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{087C0C1E-E7F3-4762-868E-5CB77A7EEE82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{087C0C1E-E7F3-4762-868E-5CB77A7EEE82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50720A7A-496E-4D25-968D-0033A5A98B71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50720A7A-496E-4D25-968D-0033A5A98B71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50720A7A-496E-4D25-968D-0033A5A98B71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50720A7A-496E-4D25-968D-0033A5A98B71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FABB953C-142D-406B-AE78-6C7A868649AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FABB953C-142D-406B-AE78-6C7A868649AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FABB953C-142D-406B-AE78-6C7A868649AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FABB953C-142D-406B-AE78-6C7A868649AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBE85336-1874-4209-A777-139BC6C696B6}
+	EndGlobalSection
+EndGlobal
